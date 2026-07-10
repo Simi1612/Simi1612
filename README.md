@@ -64,13 +64,6 @@ Turning messy real-world workflows into AI-powered systems that run themselves.
 ### AI / ML
 <br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge)
-![GPT--4O--Mini](https://img.shields.io/badge/GPT--4O--Mini-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 <br><br>
 
@@ -83,15 +76,13 @@ Turning messy real-world workflows into AI-powered systems that run themselves.
 ### Cloud & DevOps
 <br>
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws,gcp,vercel,netlify"/>
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
 
 <br><br>
 
 ### Tools
 <br>
 <img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
