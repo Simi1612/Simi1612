@@ -30,13 +30,11 @@ Turning messy real-world workflows into AI-powered systems that run themselves.
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE @ G H Patel College of Engineering & Technology (CGPA 8.45) + Minor Degree in Electric Vehicles
-- 🤖 AI/ML Engineer — building RAG systems, LLM agents, and automation pipelines
-- 📊 Data Science Enthusiast — data collection, handling, cleaning, and exploratory analysis
-- ⚙️ Automation-first mindset — n8n workflows that turn AI into shipped products
-- 💼 Freelance AI/Automation Developer — building for Upwork/Fiverr clients
-- 🌍 Based in Nadiad, Gujarat, India
-- 🚀 Building AI-powered products, from invoice extraction SaaS to flight delay forecasting
+- 🤖 AI/ML Engineer
+- 💼 Freelancer
+- 📊 Data Science & Data Analyst
+- 🧠 Passionate about LLM automation — building and creating intelligent solutions
+- 🚀 Building AI-powered products and automation solutions
 
 ---
 
@@ -83,9 +81,22 @@ Turning messy real-world workflows into AI-powered systems that run themselves.
 
 <br><br>
 
-**Cloud & DevOps**
+**Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<br><br>
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,supabase"/>
+
+<br><br>
+
+**Cloud & Deployment**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,github"/>
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 <br><br>
 
@@ -116,7 +127,7 @@ Turning messy real-world workflows into AI-powered systems that run themselves.
 
 ## 🌱 Currently Building & Learning
 
-`Agentic RAG` · `Multimodal RAG` · `LangGraph agents` · `MCP` · `FHIR + LLM auto-coding` · `AutoGluon forecasting` · `System design for AI products`
+`Agentic RAG` · `Multimodal RAG` · `LangGraph agents` · `MCP` · `Multi-agent LLM systems` · `AI medical billing & auto-coding (ICD-10/CPT)` · `FHIR + LLM auto-coding` · `AutoGluon forecasting` · `New AI/ML tools & frameworks` · `System design for AI products`
 
 ---
 
@@ -137,7 +148,7 @@ Turning messy real-world workflows into AI-powered systems that run themselves.
 
 </div>
 
-> ⚠️ **These cards need your real GitHub username.** They're currently pointing at placeholder `Simi1612` — if that's not your actual GitHub handle, the cards will show a blank/error image. Replace `Simi1612` in all 3 URLs above with your real username and they'll render.
+> Stats, streak, and commit activity pull live from GitHub for `Simi1612` — always current, zero manual updates.
 
 ---
 
