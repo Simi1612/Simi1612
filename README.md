@@ -1,181 +1,158 @@
-<!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
-
-<!-- introduction -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&font=Righteous&size=35">
-  </a>
-</h1>
-
-<br />
-<!-- about me -->
-<p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
-  <br />
-  <br />
-  🎓 Currently a high school student.
-  <br />
-  💻 I love to learn new technologies and frameworks.
-  <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
-  <br />
-</p>
-
-<!-- social handles -->
-<div align="center"> 
-  <!-- twitter -->
-  <a href="https://x.com/_sanidhyy" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
-  <!-- gmail -->
-  <a href="mailto:sanidhya.verma12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/sanidhyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<hr />
-<!-- skills -->
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
-<br />
-<p align="center">
-  <a href="https://skillicons.dev">
-      <!-- first row -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
-        </picture>
-          <br />
-          <!-- second row -->
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
-        </picture>
-
-  </a>
-</p>
-<br />
-
-<!-- deployment -->
-<h3 align="center">Deployment</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
-          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
-        </picture>
-  </a>
-<br />
-<a href="https://www.logalert.app">
-  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
-</a>
-</p>
-<hr />
-
-<!-- snake graph -->
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
+
+<img src="https://komarev.com/ghpvc/?username=smrutikatariya&style=for-the-badge&color=6366F1" alt="Profile Views"/>
+
+<br><br>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=3500&pause=1000&color=6366F1&center=true&vCenter=true&width=900&height=70&lines=Hi+👋,+I'm+Smruti+Katariya;AI%2FML+Engineer;Automation+%26+Agentic+Systems+Builder;GenAI+%2B+RAG+Developer;n8n+Workflow+Architect;Freelance+AI+Developer" alt="Typing SVG"/>
+</a>
+
+### AI/ML Engineer • Automation Builder • GenAI & RAG Developer
+
+Building production-grade AI systems — from RAG pipelines to autonomous agents to automation platforms.
+
+<br>
+
+<a href="mailto:simikatariya93@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/smrutikatariya">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/smrutikatariya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
-  <hr />
+---
 
-<!-- stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<p align=center>
-<!-- first row -->
-  <div align=center>
-  <!-- streak stats -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sanidhyy&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sanidhyy&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=sanidhyy&theme=default&border=61dafb" alt="sanidhyy's streak stats" />
-      </picture>
-    </a>
-  <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" alt="sanidhyy's github stats" />
-      </picture>
-    </a>
-  </div>
-  <!-- spaces -->
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanidhyy&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
-    </picture>
-  </a>
-</p>
+## 👩‍💻 About Me
 
-<hr />
+- 🤖 AI/ML Intern @ **Biraj Tech Services** — working on FlyFi (flight delay forecasting, Vayu & Seer architecture)
+- 🎓 B.Tech CSE, G H Patel College of Engineering & Technology (CGPA 8.45) + Minor in Electric Vehicles
+- 💼 Freelance AI/Automation Developer — building for Upwork/Fiverr clients
+- 🧠 Deep focus on RAG, LLM agents, prompt engineering, and time-series forecasting
+- ⚙️ Automation-first mindset — n8n workflows that turn AI into shipped products
+- 🚀 Currently exploring eClinical RCM — AI-driven medical billing automation (FHIR + LLM auto-coding)
 
-<!-- repositories -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br />
-<!-- first row -->
-<div width="100%" align="center">
-  <!-- repo 1 -->
-  <a align="right" href="https://github.com/sanidhyy/duolingo-clone" title="Duolingo Clone">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10.0" alt="sanidhyy's repository stats - Duolingo Clone" />
-    </picture>
-  </a>
+---
 
-  <!-- repo 2 -->
-  <a align="left" href="https://github.com/sanidhyy/3d-portfolio" title="3D Portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3D portfolio" />
-    </picture>
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<!-- second row -->
-<div width="100%" align="center">
-  <!-- repo 3 -->
-  <a align="left" href="https://github.com/sanidhyy/mern-admin" title="MERN Admin Dashboard">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - MERN Admin Dashboard" />
-    </picture>
-  </a>
+## 🚀 Tech Stack
 
-  <!-- repo 4 -->
-  <a align="right" href="https://github.com/sanidhyy/brainwave" title="Brainwave SaaS Landing Page">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - Brainwave SaaS Landing Page" />
-    </picture>
-  </a>
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css"/>
+
+<br><br>
+
+**AI / ML Frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+<br><br>
+
+**GenAI & Agentic Stack**
+<br>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=for-the-badge)
+![GPT--4O--Mini](https://img.shields.io/badge/GPT--4O--Mini-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+<br>
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,ts"/>
+
+<br><br>
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,streamlit"/>
+
+<br><br>
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase"/>
+
+<br><br>
+
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws,gcp,vercel,netlify"/>
+
+<br><br>
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
+
 </div>
 
-<!-- spaces -->
+---
 
-<br /><br /><br /><br /><br /><br />
+## 💻 Featured Projects
 
-<!-- show more repos -->
-<h4 align="center">
-  <a href="https://github.com/sanidhyy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+| Project | Description |
+|---|---|
+| 🛫 **FlyFi (Vayu & Seer)** | AI-powered flight delay forecasting — dual-model architecture for airline behavior + delay probability |
+| 📰 **Trendu Daily** | Full production n8n system — scrapes Google Trends/news, GPT-4O-Mini generates startup ideas by niche, auto-emails daily digest |
+| 🧾 **Invoxa** | AI invoice extraction SaaS — PDF/image input, batch processing, multi-format export (JSON/PDF/Excel), analytics, auth |
+| 🏨 **Stay Saver** | WhatsApp AI assistant for hospitality — automated guest engagement |
+| 🏥 **eClinical RCM (exploring)** | AI medical billing assistant — FHIR API + LLM for automated ICD-10/CPT coding |
+| 🧠 **Memory Chatbot** | Multi-user chatbot with persistent memory, web search (DuckDuckGo) + vision tool integration |
+| 📚 **RAG Chatbot** | Retrieval-augmented chatbot covering Naive/Agentic/Graph/Self-RAG techniques |
+| 📞 **AI Sales Agent** | Autonomous agent for sales conversation and lead qualification |
+| 📈 **Stock Price Forecasting** | LSTM-based prediction using yFinance data, Streamlit dashboard, actual vs predicted viz |
+
+---
+
+## 🌱 Currently Building & Learning
+
+`Agentic RAG` · `Multimodal RAG` · `LangGraph agents` · `MCP` · `FHIR + LLM auto-coding` · `AutoGluon forecasting` · `System design for AI products`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=smrutikatariya&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smrutikatariya&layout=compact&hide_border=true&theme=default"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=smrutikatariya&theme=default&hide_border=true&cache_seconds=1800"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smrutikatariya&theme=minimal&hide_border=true&area=true"/>
+
+</div>
+
+> Commit graph, streak, and language breakdown update live — no manual upkeep, just build and ship.
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:simikatariya93@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/smrutikatariya">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:818CF8&height=120&section=footer"/>
+</div>
