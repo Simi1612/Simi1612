@@ -34,7 +34,7 @@ Turning messy real-world workflows into AI-powered systems that run themselves.
 - 💼 Freelancer
 - 📊 Data Science Analyst
 - 🧠 Passionate about LLM automation — building and creating intelligent solutions
-- 🎓 B.Tech CSE @ G H Patel College of Engineering & Technology (CGPA 8.45) + Minor Degree in Electric Vehicles
+- 
 - 🌍 Based in Nadiad, Gujarat, India
 
 ---
@@ -81,8 +81,7 @@ Turning messy real-world workflows into AI-powered systems that run themselves.
 
 ### Tools
 <br>
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,powerbi"/>
 
 </div>
 
