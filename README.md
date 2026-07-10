@@ -10,7 +10,7 @@
 
 ### AI/ML Engineer • Automation Builder • GenAI & RAG Developer
 
-Building production-grade AI systems — from RAG pipelines to autonomous agents to automation platforms.
+Turning messy real-world workflows into AI-powered systems that run themselves.
 
 <br>
 
@@ -30,12 +30,13 @@ Building production-grade AI systems — from RAG pipelines to autonomous agents
 
 ## 👩‍💻 About Me
 
-- 🤖 AI/ML Intern @ **Biraj Tech Services** — working on FlyFi (flight delay forecasting, Vayu & Seer architecture)
-- 🎓 B.Tech CSE, G H Patel College of Engineering & Technology (CGPA 8.45) + Minor in Electric Vehicles
-- 💼 Freelance AI/Automation Developer — building for Upwork/Fiverr clients
-- 🧠 Deep focus on RAG, LLM agents, prompt engineering, and time-series forecasting
-- ⚙️ Automation-first mindset — n8n workflows that turn AI into shipped products
-- 🚀 Currently exploring eClinical RCM — AI-driven medical billing automation (FHIR + LLM auto-coding)
+- 🤖 AI Engineer
+- 💼 Freelance AI Developer
+- 🌍 Based in India
+- 💻 Full Stack Developer
+- 📊 Data Science Enthusiast — data collection, handling, and analysis
+- 🧠 Passionate about Machine Learning, LLMs and AI Agents
+- 🚀 Building AI-powered products and automation solutions
 
 ---
 
@@ -52,6 +53,16 @@ Building production-grade AI systems — from RAG pipelines to autonomous agents
 **AI / ML Frameworks**
 <br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+<br><br>
+
+**Data Science & Analysis**
+<br>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-6366F1?style=for-the-badge)
 
 <br><br>
 
@@ -104,8 +115,7 @@ Building production-grade AI systems — from RAG pipelines to autonomous agents
 | 🛫 **FlyFi (Vayu & Seer)** | AI-powered flight delay forecasting — dual-model architecture for airline behavior + delay probability |
 | 📰 **Trendu Daily** | Full production n8n system — scrapes Google Trends/news, GPT-4O-Mini generates startup ideas by niche, auto-emails daily digest |
 | 🧾 **Invoxa** | AI invoice extraction SaaS — PDF/image input, batch processing, multi-format export (JSON/PDF/Excel), analytics, auth |
-| 🏨 **Stay Saver** | WhatsApp AI assistant for hospitality — automated guest engagement |
-| 🏥 **eClinical RCM (exploring)** | AI medical billing assistant — FHIR API + LLM for automated ICD-10/CPT coding |
+| 🛒 **Blinkit App Analysis** | Data science project — data collection, cleaning, and exploratory analysis of Blinkit app data with visual insights |
 | 🧠 **Memory Chatbot** | Multi-user chatbot with persistent memory, web search (DuckDuckGo) + vision tool integration |
 | 📚 **RAG Chatbot** | Retrieval-augmented chatbot covering Naive/Agentic/Graph/Self-RAG techniques |
 | 📞 **AI Sales Agent** | Autonomous agent for sales conversation and lead qualification |
@@ -136,7 +146,7 @@ Building production-grade AI systems — from RAG pipelines to autonomous agents
 
 </div>
 
-> Commit graph, streak, and language breakdown update live — no manual upkeep, just build and ship.
+> Stats, streak, and commit activity pull live from GitHub — always current, zero manual updates.
 
 ---
 
@@ -144,15 +154,22 @@ Building production-grade AI systems — from RAG pipelines to autonomous agents
 
 <div align="center">
 
+Open to freelance AI/automation projects and collaboration — reach out anytime.
+
+<br>
+
 <a href="mailto:simikatariya93@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/smrutikatariya">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://github.com/smrutikatariya">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:818CF8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:6366F1,100:818CF8&height=100&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22&animation=fadeIn"/>
 </div>
