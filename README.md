@@ -34,8 +34,8 @@ Turning messy real-world workflows into AI-powered systems that run themselves.
 - 💼 Freelancer
 - 📊 Data Science Analyst
 - 🧠 Passionate about LLM automation — building and creating intelligent solutions
-- 
-- 🌍 Based in Nadiad, Gujarat, India
+- 🚀 Building AI-powered products and automation solutions
+- 🌍 Based in India
 
 ---
 
@@ -134,13 +134,6 @@ Turning messy real-world workflows into AI-powered systems that run themselves.
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Simi1612&theme=minimal&hide_border=true&area=true"/>
-
-</div>
-
-> Stats, streak, and commit activity pull live from GitHub for `Simi1612` — always current, zero manual updates.
-
----
 
 ## 📫 Connect With Me
 
